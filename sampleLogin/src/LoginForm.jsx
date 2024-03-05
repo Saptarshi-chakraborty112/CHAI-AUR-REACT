@@ -10,7 +10,7 @@ function LoginForm() {
   const handleLogin = () => {
     // Simulate authentication (replace with actual authentication logic)
     if (username === 'demo' && password === 'password') {
-        console.log('Authentication successful!');
+        console.log('Authentication successful!😊😊');
         setError('');
         setShowPopup(true);
       } else {
